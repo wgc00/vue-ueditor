@@ -10,14 +10,14 @@
 
 4、在vue-u项目中install，UEditor
 	
-		$ npm i vue-ueditor-wrap
+	$ npm i vue-ueditor-wrap
 
-![](img/2.png)
+![图片](img/2.png)
 
 
 5、在第三步中我们下载了，utf8-jsp后我们进行一个解压，然后将utf-jsp改一下名字改为UEditor，要把UEDitor复制到**public**目录下，不需要修改任何东西
 
-![](img/3.png)
+![图片](img/3.png)
 
 6、引用UEditor到vue中，在**App.vue**文件中写
 

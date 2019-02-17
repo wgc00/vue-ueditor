@@ -76,7 +76,7 @@
 		
 7、这样配置就好了，现在启动就能看到效果了  
 
-![](img/4.png)
+![图片](img/4.png)
 
 
 8、如果大家配置没有成功的话，可以去看一下[HaoChuan9421](https://github.com/HaoChuan9421/vue-ueditor-wrap)作者写的

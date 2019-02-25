@@ -4,7 +4,7 @@
     
 2、首先要创建一个vue项目：vue create vue-u   
    
-3、然后我们要去下载[UEditor](https://github.com/HaoChuan9421/vue-ueditor-wrap/tree/master/assets/downloads)，**切记尽量下载百度的UEditor，BUG太多还要自己去解决**
+3、然后我们要去下载[UEditor](https://github.com/HaoChuan9421/vue-ueditor-wrap/tree/master/assets/downloads)，**切记不要下载百度的UEditor，BUG太多还要自己去解决**
 
 ![图片](img/1.png)
 

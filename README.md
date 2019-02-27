@@ -80,4 +80,4 @@
 
 
 8、如果大家配置没有成功的话，可以去看一下[HaoChuan9421](https://github.com/HaoChuan9421/vue-ueditor-wrap)作者写的
-   
+       
